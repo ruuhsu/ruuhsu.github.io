@@ -4,13 +4,7 @@ title: ""
 ---
 
 ## Current Position
-Predoctoral Fellow
-
-Genetics and Genomics
-
-Baylor College of Medicine
-
-Houston, Texas United States
+PhD Student at the Baylor College of Medicine
 
 ## Professional Interests
 - Population Genetics and Epidemiology
