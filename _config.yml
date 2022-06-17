@@ -1,6 +1,6 @@
 title: "Ruu Hsu"
 author: "Ruu Hsu"
-description: "Since 2022"
+description: "PhD in Genetics & Genomics at Baylor College of Medicine"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Ching-Ju.Hsu@bcm.edu"}
   - {title: Github, icon: github, url: "https://github.com/ruuhsu"}
+  - {title: Linkdln, icon: linkdln, url: "https://www.linkedin.com/in/ruuhsu/"}
 
 
 comments:
