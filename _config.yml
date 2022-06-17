@@ -18,6 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", "Home"}
   - {file: "README.md", "About"}
+  - {file: "/blog.md", "Blog"}
+  - {title: "Lab", url: "https://www.bcm.edu/research/faculty-labs/philip-lupo-lab"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Ching-Ju.Hsu@bcm.edu"}
