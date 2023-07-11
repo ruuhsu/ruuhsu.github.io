@@ -4,7 +4,7 @@ title: ""
 ---
 
 ## Current Position
-PhD Student at the Baylor College of Medicine
+PhD candidate at the Baylor College of Medicine
 
 ## Professional Interests
 - Population Genetics and Epidemiology
