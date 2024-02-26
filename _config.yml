@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:Ching-Ju.Hsu@bcm.edu"}
   - {title: Github, icon: github, url: "https://github.com/ruuhsu"}
   #- {title: Linkedin, icon: rss, url: "https://www.linkedin.com/in/ruuhsu/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 
 comments:
