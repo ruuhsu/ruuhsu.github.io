@@ -4,8 +4,11 @@ title: ""
 ---
 
 ## Current Position
-PhD candidate at the Baylor College of Medicine
+PhD candidate in Genetics, Baylor College of Medicine
 
 ## Professional Interests
-- Population Genetics and Epidemiology
-- Childhood Cancer and Birth Defects
+- Genetic Epidemiology
+- Computational Biology
+- Population and Statistical Genetic
+
+
