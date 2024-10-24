@@ -6,7 +6,7 @@ title: Ruu Hsu
 # name_pronunciation: Roo Shoo
 
 # Full name (for SEO)
-first_name: Ching-Ju
+first_name: Ruu
 last_name: Hsu
 
 # Status emoji
@@ -39,7 +39,7 @@ profiles:
  # - icon: brands/instagram
  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ruuhsu
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ruuhsu/
   - icon: academicons/google-scholar
@@ -53,37 +53,37 @@ interests:
   - Molecular Epidemiology
 
 education:
-  - area: PhD in Genetics & Genomics (Bioinformatics, Genomics, and Systems Biology (BIGSB)Track)
+  - area: PhD in Genetics & Genomics (Bioinformatics, Genomics, and Systems Biology Track)
     institution: Baylor College of Medicine
-    date_start: 2021-08-02
-    date_end: present
+    date_start: 2021
+    date_end: 2026
     summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
    # button:
   #  text: 'Read Thesis'
   #  url: 'https://example.com'
   - area: MS in Biochemistry
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of Southern California
+    date_start: 2017
+    date_end: 2019
     summary: |
-      GPA: 3.8/4.0
+      #GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Statistical Programming With R
+      - Principles of Biostatistics
+      - Biochemistry
+  - area: BS in Medical Laboratory Science
+    institution: China Medical University
+   # date_start: 2016-01-01
+   # date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.0/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Licensed Medical Technologist
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
