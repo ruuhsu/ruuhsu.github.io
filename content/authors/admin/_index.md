@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ching-Ju (Ruu) Hsu
+title: Ruu Hsu
 
 # Name pronunciation (optional)
-name_pronunciation: Chin-Joo Shoo
+# name_pronunciation: Roo Shoo
 
 # Full name (for SEO)
 first_name: Ching-Ju
@@ -20,8 +20,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate in Genetics & Genomics 
-role: Bioinformatics, Genomics, and Systems Biology (BIGSB)Track
+role: PhD candidate 
+# role: Bioinformatics, Genomics, and Systems Biology (BIGSB)Track
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,21 +48,21 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics & Computational Biology
+  - Cancer Genomics
+  - Molecular Epidemiology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Genetics & Genomics (Bioinformatics, Genomics, and Systems Biology (BIGSB)Track)
+    institution: Baylor College of Medicine
+    date_start: 2021-08-02
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+   # button:
+  #  text: 'Read Thesis'
+  #  url: 'https://example.com'
+  - area: MS in Biochemistry
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
