@@ -65,7 +65,7 @@ education:
     - Bioinformatics & Genomics Analysis
     - Data Mining
     - Genetic Epidemiology & Population Genetics
-    - 
+  
   - area: MS in Biochemistry
     institution: University of Southern California
     date_start: 2017
