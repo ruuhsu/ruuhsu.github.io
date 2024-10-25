@@ -27,8 +27,9 @@ role: PhD candidate
 organizations:
   - name: Baylor College of Medicine
 #    url: 
+
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:ruu.hsu@bcm.edu'
@@ -82,7 +83,7 @@ education:
       GPA: 4.0/4.0
       Courses included:
       - Licensed Medical Technologist (Examination Yuan of ROC)
-
+      
 work:
   - position: Graduate Research Assistant
     company_name: Texas Children's Hospital
@@ -104,8 +105,7 @@ work:
       - Maintained the High Definition-Single Cell Assay (HD-SCA) platform, processing human blood samples to analyze circulating tumor cells (CTCs) across cancer types.
       - Performed single-cell whole-genome amplification and library preparation for copy number variation and targeted sequencing.
       - Developed automated quality control systems for the autostainer using Python and SQL.
-
-- position: Graduate Student Researcher
+  - position: Graduate Student Researcher
     company_name: Zilkha Neurogenetics Institute, University of Southern California
     date_start: 2017
     date_end: 2019
@@ -113,8 +113,9 @@ work:
       Responsibilities include:
       - Investigated the blood-brain barrier's role in Alzheimer's disease by developing immunohistochemistry protocols and automated biomarker analysis.
       - Analyzed microvascular changes and performed immunofluorescence staining on brain samples from mouse models.
+
 # Skills
-# Add your own SVG icons to assets/media/icons/
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -157,8 +158,8 @@ languages:
 
 # Awards.
 #   Add/remove as many awards below as you like.
-#   Only title, awarder, and date are required.
-#   Begin multi-line summary with YAML's | or |2- multi-line prefix and indent 2 spaces below.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
