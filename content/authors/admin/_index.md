@@ -32,12 +32,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ruu.hsu@bcm.edu'
+    url: 'mailto:ruu.hsu@bcm.edu'
     label: E-mail Me
 #  - icon: brands/x
- #   url: https://twitter.com/GetResearchDev
- # - icon: brands/instagram
- #   url: https://www.instagram.com/
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/ruuhsu
   - icon: brands/linkedin
@@ -59,56 +59,52 @@ education:
     date_start: 2021
     date_end: 2026
     summary: |
-    Thesis on _Characterizing the Susceptibility and Outcomes in Children with Down Syndrome-Associated Acute Lymphoblastic Leukemia_ Supervised by [Prof Philip Lupo].
-    Courses included:
-    - Applications to Biology of Computation
-    - Bioinformatics & Genomics Analysis
-    - Data Mining
-    - Genetic Epidemiology & Population Genetics
-  
+      Thesis on _Characterizing the Susceptibility and Outcomes in Children with Down Syndrome-Associated Acute Lymphoblastic Leukemia._ Supervised by [Prof Philip Lupo].
+      Courses included:
+      - Applications to Biology of Computation
+      - Bioinformatics & Genomics Analysis
+      - Data Mining
+      - Genetic Epidemiology & Population Genetics
   - area: MS in Biochemistry
     institution: University of Southern California
     date_start: 2017
     date_end: 2019
     summary: |
-      #GPA: 3.6/4.0
+      GPA: 3.6/4.0
       Courses included:
       - Statistical Programming With R
       - Principles of Biostatistics
       - Biochemistry
   - area: BS in Medical Laboratory Science
     institution: China Medical University
-   # date_start: 2016
-   # date_end: 2020
+#    date_start: 2016
+#    date_end: 2020
     summary: |
       GPA: 4.0/4.0
       Courses included:
       - Licensed Medical Technologist (Examination Yuan of ROC)
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Graduate Research Assistant
     company_name: Texas Children's Hospital
-    company_url: Cancer and Hematology Center Epidemiology
-    company_logo: 'https://www.chevronhoustonmarathon.com/wp-content/uploads/2018/11/TCH-Pref_Vert_Lockup_4c-e1591386544676.jpg'
+    company_url: 'https://www.chevronhoustonmarathon.com/wp-content/uploads/2018/11/TCH-Pref_Vert_Lockup_4c-e1591386544676.jpg'
     date_start: 2021
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Analyzed whole-genome sequencing data from children with Down syndrome and DS-ALL cases and DS controls to assess the impact of single nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
-    company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,7 +179,3 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
-## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
