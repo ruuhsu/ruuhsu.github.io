@@ -65,11 +65,6 @@ education:
     - Bioinformatics & Genomics Analysis
     - Data Mining
     - Genetic Epidemiology & Population Genetics
-    # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-   # button:
-  #  text: 'Read Thesis'
-  #  url: 'https://example.com'
-
   - area: MS in Biochemistry
     institution: University of Southern California
     date_start: 2017
