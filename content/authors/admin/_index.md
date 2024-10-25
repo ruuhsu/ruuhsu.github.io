@@ -3,7 +3,7 @@
 title: Ruu Hsu
 
 # Name pronunciation (optional)
-# name_pronunciation: Roo Shoo
+name_pronunciation: Roo Shoo
 
 # Full name (for SEO)
 first_name: Ruu
