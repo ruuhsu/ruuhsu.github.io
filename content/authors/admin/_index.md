@@ -3,7 +3,7 @@
 title: Ruu Hsu
 
 # Name pronunciation (optional)
-name_pronunciation: Roo Shoo
+# name_pronunciation: Roo Shoo
 
 # Full name (for SEO)
 first_name: Ruu
@@ -27,7 +27,6 @@ role: PhD candidate
 organizations:
   - name: Baylor College of Medicine
 #    url: 
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
 profiles:
