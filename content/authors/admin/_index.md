@@ -59,12 +59,13 @@ education:
     date_start: 2021
     date_end: 2026
     summary: |
-    Thesis on _Characterizing the Susceptibility and Outcomes in Children with Down Syndrome-Associated Acute Lymphoblastic Leukemia._ Supervised by [Prof Philip Lupo].
+    Thesis on _Characterizing the Susceptibility and Outcomes in Children with Down Syndrome-Associated Acute Lymphoblastic Leukemia_ Supervised by [Prof Philip Lupo].
     Courses included:
     - Applications to Biology of Computation
     - Bioinformatics & Genomics Analysis
     - Data Mining
     - Genetic Epidemiology & Population Genetics
+    - 
   - area: MS in Biochemistry
     institution: University of Southern California
     date_start: 2017
