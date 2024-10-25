@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD in Genetics & Genomics (Bioinformatics, Genomics, and Systems Biology Track)
     institution: Baylor College of Medicine
-    date_start: 2021
-    date_end: 2026
+    date_start: '2021'
+    date_end: '2026'
     summary: |
       Thesis on _Characterizing the Susceptibility and Outcomes in Children with Down Syndrome-Associated Acute Lymphoblastic Leukemia._ Supervised by [Prof Philip Lupo].
       Courses included:
@@ -67,8 +67,8 @@ education:
       - Genetic Epidemiology & Population Genetics
   - area: MS in Biochemistry
     institution: University of Southern California
-    date_start: 2017
-    date_end: 2019
+    date_start: '2017'
+    date_end: '2019'
     summary: |
       GPA: 3.6/4.0
       Courses included:
@@ -87,25 +87,34 @@ education:
 work:
   - position: Graduate Research Assistant
     company_name: Texas Children's Hospital
-    company_url: 'https://www.chevronhoustonmarathon.com/wp-content/uploads/2018/11/TCH-Pref_Vert_Lockup_4c-e1591386544676.jpg'
-    date_start: 2021
-    date_end: ''
+    company_logo: 'https://www.chevronhoustonmarathon.com/wp-content/uploads/2018/11/TCH-Pref_Vert_Lockup_4c-e1591386544676.jpg'
+    date_start: '2021'
+    date_end: '2026'
     summary: |
       Responsibilities include:
-      - Analyzed whole-genome sequencing data from children with Down syndrome and DS-ALL cases and DS controls to assess the impact of single nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
-  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Analyzed whole-genome sequencing data from children with Down syndrome (DS) who developed acute lymphoblastic leukemia (ALL) and compared them with DS controls to assess the impact of single nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
+      - Conducted outcome analysis for DS-ALL, evaluating treatment response, infectious toxicity, and survival based on demographic, clinical, and genomic factors.
+      - Applied Mendelian randomization to assess birth characteristics' influence (e.g., birth weight) on ALL risk in DS children.
+        
+  - position: Specialized Laboratory Technician
+    company_name: Convergent Science Institute in Cancer, University of Southern California
+    company_url: 'https://dornsife.usc.edu/kuhn/'
+    date_start: 2019
+    date_end: 2021
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Maintained the High Definition-Single Cell Assay (HD-SCA) platform, processing human blood samples to analyze circulating tumor cells (CTCs) across cancer types.
+      - Performed single-cell whole-genome amplification and library preparation for copy number variation and targeted sequencing.
+      - Developed automated quality control systems for the autostainer using Python and SQL.
 
+- position: Graduate Student Researcher
+    company_name: Zilkha Neurogenetics Institute, University of Southern California
+    date_start: 2017
+    date_end: 2019
+    summary: |
+      Responsibilities include:
+      - Investigated the blood-brain barrier's role in Alzheimer's disease by developing immunohistochemistry protocols and automated biomarker analysis.
+      - Analyzed microvascular changes and performed immunofluorescence staining on brain samples from mouse models.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
