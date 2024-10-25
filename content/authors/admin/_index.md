@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD in Genetics & Genomics (Bioinformatics, Genomics, and Systems Biology Track)
     institution: Baylor College of Medicine
-    date_start: '2021'
-    date_end: '2026'
+    date_start: 2021
+    date_end: 2026
     summary: |
       Thesis on _Characterizing the Susceptibility and Outcomes in Children with Down Syndrome-Associated Acute Lymphoblastic Leukemia._ Supervised by [Prof Philip Lupo].
       Courses included:
@@ -67,8 +67,8 @@ education:
       - Genetic Epidemiology & Population Genetics
   - area: MS in Biochemistry
     institution: University of Southern California
-    date_start: '2017'
-    date_end: '2019'
+    date_start: 2017
+    date_end: 2019
     summary: |
       GPA: 3.6/4.0
       Courses included:
@@ -87,9 +87,8 @@ education:
 work:
   - position: Graduate Research Assistant
     company_name: Texas Children's Hospital
-    company_logo: 'https://www.chevronhoustonmarathon.com/wp-content/uploads/2018/11/TCH-Pref_Vert_Lockup_4c-e1591386544676.jpg'
-    date_start: '2021'
-    date_end: '2026'
+    date_start: 2021
+    date_end: 2026
     summary: |
       Responsibilities include:
       - Analyzed whole-genome sequencing data from children with Down syndrome (DS) who developed acute lymphoblastic leukemia (ALL) and compared them with DS controls to assess the impact of single nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
