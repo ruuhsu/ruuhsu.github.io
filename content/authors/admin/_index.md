@@ -32,7 +32,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ruu.hsu@bcm.edu'
     label: E-mail Me
 #  - icon: brands/x
  #   url: https://twitter.com/GetResearchDev
@@ -45,11 +45,12 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=XG5Ui3IAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-5077-0981
 
 interests:
-  - Bioinformatics & Computational Biology
+  - Bioinformatics
   - Cancer Genomics
+  - Machine Learning, deep learning
   - Molecular Epidemiology
 
 education:
@@ -58,42 +59,47 @@ education:
     date_start: 2021
     date_end: 2026
     summary: |
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    Thesis on _Characterizing the Susceptibility and Outcomes in Children with Down Syndrome-Associated Acute Lymphoblastic Leukemia._ Supervised by [Prof Philip Lupo].
+    Courses included:
+    - Applications to Biology of Computation
+    - Bioinformatics & Genomics Analysis
+    - Data Mining
+    - Genetic Epidemiology & Population Genetics
+    # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
    # button:
   #  text: 'Read Thesis'
   #  url: 'https://example.com'
+
   - area: MS in Biochemistry
     institution: University of Southern California
     date_start: 2017
     date_end: 2019
     summary: |
-      #GPA: 3.8/4.0
-
+      #GPA: 3.6/4.0
       Courses included:
       - Statistical Programming With R
       - Principles of Biostatistics
       - Biochemistry
   - area: BS in Medical Laboratory Science
     institution: China Medical University
-   # date_start: 2016-01-01
-   # date_end: 2020-12-31
+   # date_start: 2016
+   # date_end: 2020
     summary: |
       GPA: 4.0/4.0
-      
       Courses included:
-      - Licensed Medical Technologist
+      - Licensed Medical Technologist (Examination Yuan of ROC)
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Graduate Research Assistant
+    company_name: Texas Children's Hospital
+    company_url: Cancer and Hematology Center Epidemiology
+    company_logo: 'https://www.chevronhoustonmarathon.com/wp-content/uploads/2018/11/TCH-Pref_Vert_Lockup_4c-e1591386544676.jpg'
+    date_start: 2021
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analyzed whole-genome sequencing data from children with Down syndrome and DS-ALL cases and DS controls to assess the impact of single nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
