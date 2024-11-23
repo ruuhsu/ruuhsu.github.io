@@ -135,38 +135,29 @@ skills:
       - name: R
         description: ''
        # percent: 90
-        icon: code-bracket
+        icon: markdown
       - name: Python
         description: ''
        # percent: 100
-        icon: code-bracket
+        icon: python
       - name: Linux/Unix (HPC)
         icon: code-bracket
       - name: SPSS
         icon: chart-bar
-      - name: Data Analysis
-        icon: chart-bar
-      - name: Clinical analysis
-        icon: chart-bar
-      - name: Bioinformatics
-        icon: code-bracket
-      - name: Cancer Genomics
-        description: ''
-       # percent: 50
-        icon: chart-bar
+
         
-  - name: Services & Leadership
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: President at BCM-TSA
+      - name: Hiking
         description: ''
        # percent: 60
         icon: person-simple-walk
-      - name: Consultant at CCTMC
+      - name: Dog & Cat
         description: ''
        # percent: 100
-        icon: person-simple-walk
+        icon: cat
 
 languages:
   - name: English
