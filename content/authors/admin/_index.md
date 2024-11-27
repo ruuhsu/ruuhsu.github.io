@@ -176,7 +176,7 @@ awards:
     url: https://www.bcm.edu/academic-centers/dan-l-duncan-comprehensive-cancer-center/education/cprit-training-program
     date: '2023-07-01'
     awarder: Cancer Prevention and Research Institute of Texas
-    icon: Coursera
+    icon: star
     
   - title: Student and Postdoctoral Travel Award
     url: https://birthdefectsresearch.org/
