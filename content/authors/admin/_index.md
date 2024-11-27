@@ -3,7 +3,7 @@
 title: Ruu Hsu
 
 # Name pronunciation (optional)
-name_pronunciation: Roo Shoo
+# name_pronunciation: Roo Shoo
 
 # Full name (for SEO)
 first_name: Ruu
@@ -21,7 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: PhD candidate 
-role: Bioinformatics, Genomics, and Systems Biology (BIGSB)Track
+# role: Bioinformatics, Genomics, and Systems Biology (BIGSB)Track
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
