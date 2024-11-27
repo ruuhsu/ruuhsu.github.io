@@ -177,12 +177,18 @@ awards:
     date: '2023-07-01'
     awarder: Cancer Prevention and Research Institute of Texas
     # icon: star
-    
-  - title: Student and Postdoctoral Travel Award
+  - title: Student and Postdoctoral Travel Award - 28th Summer Institute in Statistical Genetics
     url: https://birthdefectsresearch.org/
     date: '2024-06-01'
-    awarder: The Society for Birth Defects & Prevention
-   # icon: edx
+    awarder: The Society for Birth Defects & Prevention 
+  - title: Scholarship and Travel Grant
+    date: '2023-05-01'
+    awarder: University of Washington
+  - title: Data Science for Diversity Scholars in Down Syndrome Research (DS3) Training Program
+    date: '2022-07-01'
+    awarder: Funded by INCLUDE Data Coordinating Center (DCC)
+
+   
   
 
 ---
