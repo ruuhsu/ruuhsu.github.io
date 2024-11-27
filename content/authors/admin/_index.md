@@ -3,7 +3,7 @@
 title: Ruu Hsu
 
 # Name pronunciation (optional)
-# name_pronunciation: Roo Shoo
+name_pronunciation: Roo Shoo
 
 # Full name (for SEO)
 first_name: Ruu
@@ -21,7 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: PhD candidate 
-# role: Bioinformatics, Genomics, and Systems Biology (BIGSB)Track
+role: Bioinformatics, Genomics, and Systems Biology (BIGSB)Track
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -184,12 +184,5 @@ awards:
     awarder: The Society for Birth Defects & Prevention
    # icon: edx
   
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
