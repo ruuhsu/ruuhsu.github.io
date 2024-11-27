@@ -161,11 +161,11 @@ skills:
 
 languages:
   - name: English
-   # percent: 100
+    percent: 95
   - name: Chinese
-   # percent: 100
+    percent: 100
   - name: Japanese
-   # percent: 25
+    percent: 35
 
 # Awards.
 #   Add/remove as many awards below as you like.
