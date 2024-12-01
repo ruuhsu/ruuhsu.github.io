@@ -1,13 +1,40 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Introduction to Pandas
+date: 2024-12-01
+external_link: https://leetcode.com/studyplan/introduction-to-pandas/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Leetcode
+  - Coding-Practice
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+# Pandas: A Flexible and Powerful Library for Data Analysis and Manipulation
 
-<!--more-->
+Pandas is a go-to library for handling and analyzing data in Python, offering labeled data structures such as DataFrames. Whether you're cleaning messy data or performing complex transformations, Pandas makes data manipulation simple and efficient.
+
+---
+
+## Getting Started: Creating a DataFrame from a List
+
+A **DataFrame** is a core structure in Pandas that represents tabular data. Here's how you can create a DataFrame from a list of lists in Python:
+
+```python
+from typing import List
+import pandas as pd
+
+def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
+    """
+    Create a DataFrame from a list of student data.
+
+    Args:
+        student_data (List[List[int]]): A list of lists where each inner list contains [student_id, age].
+
+    Returns:
+        pd.DataFrame: A DataFrame with 'student_id' and 'age' as columns.
+    """
+    colnames = ["student_id", "age"]
+    try:
+        result = pd.DataFrame(student_data, columns=colnames)
+        return result
+    except ValueError as e:
+        raise ValueError("Input data does not match the expected column structure.") from e
