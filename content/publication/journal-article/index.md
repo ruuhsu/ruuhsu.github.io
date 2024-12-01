@@ -1,16 +1,22 @@
 ---
-title: "An example journal article"
+title: "Adipose-derived Stem Cells Stimulated with n-Butylidenephthalide Exhibit Therapeutic Effects in a Mouse Model of Parkinson’s Disease"
 authors:
+- Kang Chi
+- Ru-Huei Fu
+- Yu-Chuen Huang
+- Shih-Yin Chen
 - admin
-- Robert Ford
+- Shinn-Zong Lin
+- Chi-Tang Tu
+- Li-Hsun Chang
+- Ping-An Wu
+- Shih-Ping Liu
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2018-03-27T00:00:00Z"
+doi: "10.1177/0963689718757408"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,14 +24,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Cell Transplant."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Parkinson's disease (PD) causes motor dysfunction and dopaminergic cell death. Drug treatments can effectively reduce symptoms but often cause unwanted side effects. Stem cell therapies using cell replacement or indirect beneficial secretomes have recently emerged as potential therapeutic strategies. Although various types of stem cells have been proposed as possible candidates, adipose-derived stem cells (ADSCs) are easily obtainable, more abundant, less ethically disputed, and able to differentiate into multiple cell lineages. However, treatment of PD using adult stem cells is known to be less efficacious than neuron or embryonic stem cell transplantation. Therefore, improved therapies are urgently needed. n-Butylidenephthalide (BP), which is extracted from Angelica sinensis, has been shown to have anti-inflammatory and neuroprotective effects. Indeed, we previously demonstrated that BP treatment of ADSCs enhances the expression of neurogenesis and homing factors such as nuclear receptor related 1 protein, stromal-derived factor 1, and brain-derived neurotrophic factor. In the present study, we examined the ability of BP-pretreated ADSC transplantation to improve PD motor symptoms and protect dopamine neurons in a mouse model of PD. We evaluated the results using neuronal behavior tests such as beam walking, rotarod, and locomotor activity tests. ADSCs with or without BP pretreatment were transplanted into the striatum. Our findings demonstrated that ADSC transplantation improved motor abilities with varied efficacies and that BP stimulation improved the therapeutic effects of transplantation. Dopaminergic cell numbers returned to normal in ADSC-transplanted mice after 22 d. In summary, stimulating ADSCs with BP improved PD recovery efficiency. Thus, our results provide important new strategies to improve stem cell therapies for neurodegenerative diseases in future studies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: Parkinson's disease (PD) causes motor dysfunction and dopaminergic cell death, with current treatments often leading to side effects. This study demonstrates that pretreating adipose-derived stem cells (ADSCs) with n-butylidenephthalide (BP), a compound with neuroprotective effects, enhances their therapeutic efficacy in a PD mouse model. Transplantation of BP-pretreated ADSCs improved motor symptoms and restored dopamine neuron levels, highlighting a promising strategy to enhance stem cell therapies for neurodegenerative diseases.
 tags:
 - Source Themes
 featured: false
@@ -33,8 +38,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: "https://pubmed.ncbi.nlm.nih.gov/29756519/"
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+ # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
