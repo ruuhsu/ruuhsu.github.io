@@ -1,5 +1,5 @@
 ---
-title: "Platelet-Coated Circulating Tumor Cells Are a Predictive Biomarker in Patients with Metastatic Castrate-Resistant Prostate Cancer." 
+title: "Platelet-Coated Circulating Tumor Cells Are a Predictive Biomarker in Patients with Metastatic Castrate-Resistant Prostate Cancer" 
 authors:
 - Shoujie Chai
 - Nicholas Matsumoto
