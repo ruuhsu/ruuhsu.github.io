@@ -1,5 +1,5 @@
 ---
-title: "N-Acetyl-L-cysteine Promotes Ex Vivo Growth and Expansion of Single Circulating Tumor Cells by Mitigating Cellular Stress Responses."
+title: "N-Acetyl-L-cysteine Promotes Ex Vivo Growth and Expansion of Single Circulating Tumor Cells by Mitigating Cellular Stress Responses"
 authors:
 - Teng Teng
 - Mohamed Kamal
