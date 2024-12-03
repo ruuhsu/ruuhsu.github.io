@@ -6,7 +6,7 @@ title: Ruu Hsu
 # name_pronunciation: Roo Shoo
 
 # Full name (for SEO)
-first_name: Ruu
+first_name: Ching-Ju (Ruu)
 last_name: Hsu
 
 # Status emoji
