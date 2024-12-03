@@ -1,7 +1,7 @@
 ---
 title: Introduction to Pandas
 date: 2024-12-01
-external_link: https://leetcode.com/studyplan/introduction-to-pandas/
+# external_link: https://leetcode.com/studyplan/introduction-to-pandas/
 tags:
   - Python
   - Leetcode
