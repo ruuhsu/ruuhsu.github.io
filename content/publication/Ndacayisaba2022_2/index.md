@@ -1,5 +1,5 @@
 ---
-title: "Characterization of BCMA Expression in Circulating Rare Single Cells of Patients with Plasma Cell Neoplasms." 
+title: "Characterization of BCMA Expression in Circulating Rare Single Cells of Patients with Plasma Cell Neoplasms" 
 authors:
 - Libere J Ndacayisaba
 - Kate E Rappard
