@@ -1,5 +1,5 @@
 ---
-title: 'APOE4 accelerates advanced-stage vascular and neurodegenerative disorder in old Alzheimer’s mice via cyclophilin A independently of amyloid-β.'
+title: 'APOE4 accelerates advanced-stage vascular and neurodegenerative disorder in old Alzheimer’s mice via cyclophilin A independently of amyloid-β'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
