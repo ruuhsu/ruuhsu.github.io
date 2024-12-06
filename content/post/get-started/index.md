@@ -1,6 +1,6 @@
 ---
 title: Post GWAS Analysis: PaintorPipe
-summary: 
+summary: "Brief overview of the PaintorPipe pipeline."
 date: 2024-12-06
 
 # Featured image
@@ -17,4 +17,3 @@ tags:
   - BIOINFORMATICS
   - PIPELINE
 ---
-
