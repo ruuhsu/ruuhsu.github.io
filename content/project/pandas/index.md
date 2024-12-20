@@ -8,7 +8,7 @@ tags:
   - Coding-Practice
 ---
 
-# Pandas: A Flexible and Powerful Library for Data Analysis and Manipulation
+# Data Engineering Zoomcamp
 
 My learning journey following the data engineering courses led by DataTalk Club. (https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
 
