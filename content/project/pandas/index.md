@@ -1,22 +1,25 @@
 ---
-title: Introduction to Pandas
-date: 2024-12-01
+title: Data Engineering Zoomcamp y2025 
+date: 2024-12-20
 # external_link: https://leetcode.com/studyplan/introduction-to-pandas/
 tags:
-  - Python
-  - Leetcode
+  - Data Engineering
+  - Docker
   - Coding-Practice
 ---
 
 # Pandas: A Flexible and Powerful Library for Data Analysis and Manipulation
 
-Pandas is a go-to library for handling and analyzing data in Python, offering labeled data structures such as DataFrames. Whether you're cleaning messy data or performing complex transformations, Pandas makes data manipulation simple and efficient.
+My learning journey following the data engineering courses led by DataTalk Club. (https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
 
 ---
 
-## Getting Started: Creating a DataFrame from a List
+## Pre-course set up
 
-A **DataFrame** is a core structure in Pandas that represents tabular data. Here's how you can create a DataFrame from a list of lists in Python:
+1. Download **Docker**
+2. Set up **Google Cloud**
+3. Watch **Pre-course FAQ**
+4. Have a **Github account** and **CodeSpaces**
 
 ```python
 from typing import List
