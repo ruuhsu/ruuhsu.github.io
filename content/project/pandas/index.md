@@ -16,8 +16,8 @@ My learning journey following the data engineering courses led by DataTalk Club.
 
 ## Pre-course set up
 
-1. Download **Docker**
-2. Set up **Google Cloud**
+1. Download **Docker** (2025/01/03 Note: Github Codespaces have built-in docker)
+2. Set up **Google Cloud** (2025/01/03 Note: Set up right before the class for Google Cloud 3-months free trials)
 3. Watch **Pre-course FAQ**
 4. Have a **Github account** and **CodeSpaces**
 
