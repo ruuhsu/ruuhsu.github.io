@@ -10,7 +10,7 @@ tags:
 
 # Data Engineering Zoomcamp
 
-My learning journey following the data engineering courses led by DataTalk Club. [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main]
+My learning journey following the data engineering courses led by [DataTalk Club]. (https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
 
 ---
 
@@ -23,10 +23,11 @@ My learning journey following the data engineering courses led by DataTalk Club.
 
 ## Pre-course resources
 
-1. Github Codespace [https://www.youtube.com/watch?v=XOSUt8Ih3zA&list=PL3MmuxUbc_hKihpnNQ9qtTmWYy26bPrSb&index=2]
+1. [Github Codespace Tutorial](https://www.youtube.com/watch?v=XOSUt8Ih3zA&list=PL3MmuxUbc_hKihpnNQ9qtTmWYy26bPrSb&index=2)
 
+---
 
-## Module 1. 01-docker-terraform [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform]
+## [Module 1. 01-docker-terraform] (https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform)
 ```python
 from typing import List
 import pandas as pd
