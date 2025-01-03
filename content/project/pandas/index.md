@@ -5,7 +5,7 @@ date: 2024-12-20
 tags:
   - Data Engineering
   - Docker
-  - Coding-Practice
+  - Coding-Workshop
 ---
 
 # Data Engineering Zoomcamp
@@ -20,6 +20,11 @@ My learning journey following the data engineering courses led by DataTalk Club.
 2. Set up **Google Cloud** (2025/01/03 Note: Set up right before the class for Google Cloud 3-months free trials)
 3. Watch **Pre-course FAQ**
 4. Have a **Github account** and **CodeSpaces**
+
+## Pre-course resources
+
+1. Github Codespace (https://www.youtube.com/watch?v=XOSUt8Ih3zA&list=PL3MmuxUbc_hKihpnNQ9qtTmWYy26bPrSb&index=2)
+
 
 ```python
 from typing import List
