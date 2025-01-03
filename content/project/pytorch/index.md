@@ -1,11 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: ATAC-seq Analysis Notes
+date: 2021-12-11
+# external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Rotation Project
+  - Bioinformatics
+  - Analysis Notes
 ---
 
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
