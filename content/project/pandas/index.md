@@ -24,7 +24,7 @@ My learning journey following the data engineering courses led by [DataTalk Club
 ## Pre-course resources
 
 1. [Github Codespace Tutorial](https://www.youtube.com/watch?v=XOSUt8Ih3zA&list=PL3MmuxUbc_hKihpnNQ9qtTmWYy26bPrSb&index=2)
-Steps summarization to set up Codespace and start coding in VS code
+# Steps summarization to set up Codespace and start coding in VS code
 - Open a new repository (Zoomcamp2025)
 - Open codespace and create a new codespace under the created repository (Zoomcamp2025)
 - Click the top left button and select 'Open in VS code Desktop'
@@ -38,7 +38,7 @@ Steps summarization to set up Codespace and start coding in VS code
 
 ---
 
-[Module 1. 01-docker-terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform)
+# [Module 1. 01-docker-terraform](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform)
 ```python
 from typing import List
 import pandas as pd
