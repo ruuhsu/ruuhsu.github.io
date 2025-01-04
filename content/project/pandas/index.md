@@ -47,16 +47,17 @@ My learning journey following the data engineering courses led by [DataTalk Club
   --network=pg-network \
   --name pg-database \
   postgres:13
-- Docker open 'pgAdmin'
+- Docker open 'pgAdmin' (*Note: make sure there's a space at the end of each line)
   ```python
   docker run -it \
   -e PGADMIN_DEFAULT_EMAIL="admin@admin.com" \
-  -e PGADMIN_DEFAULT_PASSWORD="root"\
+  -e PGADMIN_DEFAULT_PASSWORD="root" \
   -p 8080:80 \
   --network=pg-network \
   --name pgadmin \
   dpage/pgadmin4
-  
+
+- Now you can connect to the pgadmin by clicking the portal link
 - Done!
 
 ---
