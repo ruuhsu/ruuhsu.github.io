@@ -58,13 +58,6 @@ jobs:
       with:
         path: ./public
 
-- name: Preload artifact uploader
-  uses: actions/upload-artifact@v3
-  with:
-    name: preload-dummy
-    path: ./ # just to avoid the error; won’t be used
-
-
   # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
