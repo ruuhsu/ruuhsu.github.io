@@ -99,15 +99,16 @@ work:
     company_name: Consulting Club at Texas Medical Center (CCTMC)
     company_url: https://www.medcenterconsulting.com/
     date_start: 2024-10-01
-  - position: President
-    company_name: BCM-Taiwanese Student Association (BCM-TSA)
-    date_start: 2023-09-01
-    date_end: 2024-09-01
+  - position: Consultant
+    company_name: Consulting Club at Texas Medical Center (CCTMC)
+    date_start: 2024-05-01
+    date_end: 2026-01-01
     summary: |
-      Responsibilities include:
-      - Led initiatives to foster community engagement and cultural exchange among Taiwanese students and the broader BCM community.
-      - Organized events and social activities to support Taiwanese student well-being and academic success.
-      - Collaborated with the Education Division of the Taipei Economic and Cultural Office in Houston to advocate for the needs of international students.
+      Past projects include:
+      - Advised a healthcare AI startup on product-market fit through competitor analysis, clinical workflow evaluation, and ecosystem mapping.
+      - Provided strategic recommendations for business development and AI implementation in clinical settings.
+      - Built a financial model estimating over $3.5B U.S. market potential for novel therapies in PTSD, Anorexia Nervosa (AN), and Autism Spectrum Disorder (ASD).
+      - Recommended indication prioritization, go-to-market strategy, and investor engagement plans for an early-stage biotech company.
   - position: Specialized Laboratory Technician
     company_name: Convergent Science Institute in Cancer, University of Southern California
     company_url: 'https://dornsife.usc.edu/kuhn/'
