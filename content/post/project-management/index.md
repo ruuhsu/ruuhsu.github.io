@@ -16,13 +16,13 @@ image:
 
 ## Introduction
 
-* A Quantile-Quantile (QQ) plot (in general) plots the observed quantiles of one distribution versus another OR plots the observed quantiles of a distribution versus the quantiles of the ideal distribution.
+* A Quantile-Quantile (QQ) plot (in general) plots the observed quantiles of one distribution versus another, OR plots the observed quantiles of a distribution versus the quantiles of the ideal distribution.
 
-* In GWAS we use a QQ plot to plot our the quantile distribution of observed p-values (on the y-axis) versus the quantile distribution of expected p-values. In an ideal situation, where there ARE NO causal polymorphisms, the QQ-plot will be a line. 
+* In GWAS, we use a QQ plot to plot our the quantile distribution of observed p-values (on the y-axis) versus the quantile distribution of expected p-values. In an ideal situation, where there ARE NO causal polymorphisms, the QQ-plot will be a line. 
 
 * The reason is that we will observe a uniform distribution of p-values from such a case and in our QQ, we are plotting this observed distribution of p-value versus the expected distribution of p-values: a uniform distribution (where both have been -log transformed).
 
-** Note that if you GWAS analysis is correct but you do not have enough power to detect positions of causal polymorphisms, this will also be your result (!!)-> it is a way to assess whether you can detect any hits in your GWAS.
+** Note that if your GWAS analysis is correct but you do not have enough power to detect positions of causal polymorphisms, this will also be your result (!!)-> it is a way to assess whether you can detect any hits in your GWAS.
 
 ### To plot a QQ-plot
 
