@@ -60,7 +60,7 @@ When making a QQ-plot, it is important to calculate lambda (also called the geno
   lambda <- median(chisq, na.rm = TRUE) / qchisq(0.5, df = 1)
   legend("topleft", legend = bquote(lambda == .(round(lambda, 3))), bty = "n")
 ```
-
+More codes, see my [GitHub repository](https://github.com/ruuhsu/QQ_Plot_lambda)
 
 ## References
 1. _[Statistical Horizons](https://statisticalhorizons.com/wp-content/uploads/2022/04/SG-Sample-Materials-1.pdf)_
