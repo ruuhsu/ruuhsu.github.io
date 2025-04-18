@@ -1,7 +1,7 @@
 ---
 title: 🧰 Quantile-Quantile Plots (QQ-plots)
 summary: GWAS Toolbox for generating a QQ-plot & Lambda
-date: 2025-4-18
+date: 2025-04-18
 authors:
   - admin
 tags:
