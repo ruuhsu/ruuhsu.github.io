@@ -55,12 +55,17 @@ When making a QQ-plot, it is important to calculate lambda (also called the geno
 * Conservative test statistics
 * Sparse data
 
-```markmap {height="200px"}
+<div class="highlight" style="padding: 1.5rem;">
+<pre class="chroma">
+<code>
   chisq <- qchisq(1 - result$PVALUE, df = 1)
   lambda <- median(chisq, na.rm = TRUE) / qchisq(0.5, df = 1)
   legend("topleft", legend = bquote(lambda == .(round(lambda, 3))), bty = "n")
-```
-More codes, see my [GitHub repository](https://github.com/ruuhsu/QQ_Plot_lambda)
+</code>
+</pre>
+</div>
+
+To read more, see my [GitHub repository](https://github.com/ruuhsu/QQ_Plot_lambda)
 
 ## References
 1. _[Statistical Horizons](https://statisticalhorizons.com/wp-content/uploads/2022/04/SG-Sample-Materials-1.pdf)_
