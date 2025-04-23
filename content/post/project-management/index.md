@@ -65,10 +65,10 @@ When making a QQ-plot, it is important to calculate lambda (also called the geno
 </pre>
 </div>
 
-To read more, see my [GitHub repository](https://github.com/ruuhsu/QQ_Plot_lambda)
+To read more, see [GitHub repository](https://github.com/ruuhsu/QQ_Plot_lambda)
 
 ## References
 1. _[Statistical Horizons](https://statisticalhorizons.com/wp-content/uploads/2022/04/SG-Sample-Materials-1.pdf)_
 2. _Ehret GB, Curr Hypertens Rep. 2010 Feb;12(1):17–25. doi: [10.1007/s11906-009-0086-6](https://pmc.ncbi.nlm.nih.gov/articles/PMC2865585/)_
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful, by chance? Consider sharing it 🙌
