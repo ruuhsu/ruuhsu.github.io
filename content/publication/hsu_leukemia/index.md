@@ -36,7 +36,7 @@ abstract: "In essence, this study reports that all B-cell ALL genetic subtypesâ€
 # Summary. An optional shortened abstract.
 # summary: Parkinson's disease (PD) causes motor dysfunction and dopaminergic cell death, with current treatments often leading to side effects. This study demonstrates that pretreating adipose-derived stem cells (ADSCs) with n-butylidenephthalide (BP), a compound with neuroprotective effects, enhances their therapeutic efficacy in a PD mouse model. Transplantation of BP-pretreated ADSCs improved motor symptoms and restored dopamine neuron levels, highlighting a promising strategy to enhance stem cell therapies for neurodegenerative diseases.
 tags:
-- Circulating tumor cells
+- Genetic Epidemiology
 featured: true
 
 # links:
