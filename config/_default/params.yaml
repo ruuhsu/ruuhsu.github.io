@@ -34,7 +34,8 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: "assets/media/logo.png"
+    logo: 
+      image: "assets/media/logo.png"
       text: "Ruu Hsu"
 
 # Site footer
