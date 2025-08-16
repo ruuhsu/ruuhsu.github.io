@@ -138,20 +138,16 @@ skills:
     items:
       - name: R
         description: ''
-        percent: 95
+        # percent: 95
         icon: markdown
       - name: Python
         description: ''
        # percent: 90
         icon: python
-      - name: Command Line (HPC)
+      - name: Command-line  (HPC)
         icon: code-bracket
-      - name: SPSS
-        icon: chart-bar
-      - name: Scikit-learn
-        icon: scikitlearn
       - name: PostgreSQL
-        icon: postgresql
+        icon: chart-bar
 
         
   - name: Hobbies
@@ -166,12 +162,7 @@ skills:
         description: ''
        # percent: 100
         icon: cat
-      - name: Learning
-        description: ''
-        icon: coursera
-      - name: Reading
-        description: ''
-        icon: pubmed
+
 
 Language:
   - name: English
