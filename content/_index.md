@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Ruu Hsu's Academic Page"
+title: "Home - Ruu Hsu"
 date: 2022-10-24
 type: landing
 
@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 About Me'
       subtitle: ''
       text: |-
         My name is Ching-Ju (Ruu) Hsu, a Ph.D. candidate at Baylor College of Medicine with expertise in bioinformatics, cancer genomics, and molecular epidemiology. My research focuses on the elevated risk of acute lymphoblastic leukemia (ALL) in children with Down syndrome (DS). Ultimately, my goal is to improve counseling, treatment, and surveillance efforts for cancer patients.
 
         I am passionate about leveraging precision medicine, clinical research, and machine learning to uncover disease mechanisms, predict risk, and enhance patient outcomes.
         
-        Let’s connect—I’m excited to collaborate and explore opportunities together 😊
+        Let’s connect—I’m excited to collaborate and explore opportunities together :)
     design:
       columns: '1'
   - block: collection
