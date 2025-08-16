@@ -162,6 +162,14 @@ skills:
         description: ''
        # percent: 100
         icon: cat
+      - name: Photography
+        description: ''
+        # percent: 80
+        icon: camera
+      - name: Baking
+        description: ''
+        # percent: 40
+        icon: circle-stack
 
 
 languages:
