@@ -1,7 +1,7 @@
 ---
 title: News
 cms_exclude: true
-#url: news
+#url: talks
 
 # View
 view: card
