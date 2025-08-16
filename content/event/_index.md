@@ -1,5 +1,5 @@
 ---
-title: Recent News
+title: News
 cms_exclude: true
 #url: news
 
