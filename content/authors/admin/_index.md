@@ -164,13 +164,13 @@ skills:
         icon: cat
 
 
-Language:
+languages:
   - name: English
-    percent: 95
+    percent: 99
   - name: Chinese
     percent: 100
   - name: Japanese
-    percent: 45
+    percent: 35
 
 # Awards.
 #   Add/remove as many awards below as you like.
