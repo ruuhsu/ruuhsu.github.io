@@ -50,9 +50,10 @@ profiles:
 interests:
   - Bioinformatics
   - Cancer Genomics
-  - Computation Biology
+  - Computational Biology
   - Genetics Epidemiology
   - Machine Learning, deep learning
+  - Population Genetics
 
 education:
   - area: PhD in Genetics & Genomics (Bioinformatics, Genomics, and Systems Biology Track)
@@ -66,6 +67,7 @@ education:
       - Bioinformatics & Genomics Analysis
       - Data Mining
       - Genetic Epidemiology & Population Genetics
+      - Human Genetics
   - area: MS in Biochemistry
     institution: University of Southern California
     date_start: 2017-08-01
@@ -92,9 +94,10 @@ work:
     date_end: 2025-12-01
     summary: |
       Responsibilities include:
-      - Analyzed whole-genome sequencing data from children with Down syndrome (DS) who developed acute lymphoblastic leukemia (ALL) and compared them with DS controls to assess the impact of single nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
+      - Analyzed whole-genome sequencing data from children with Down syndrome (DS) who developed acute lymphoblastic leukemia (ALL) and compared them with DS controls to assess the impact of single-nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
       - Conducted outcome analysis for DS-ALL, evaluating treatment response, infectious toxicity, and survival based on demographic, clinical, and genomic factors.
       - Applied Mendelian randomization to assess birth characteristics' influence (e.g., birth weight) on ALL risk in DS children.
+      - Utilize machine learning to predict leukemia risk among children born with congenital anomalies.
   - position: Director of Agency
     company_name: Consulting Club at Texas Medical Center (CCTMC)
     company_url: https://www.medcenterconsulting.com/
@@ -135,16 +138,20 @@ skills:
     items:
       - name: R
         description: ''
-       # percent: 90
+        percent: 95
         icon: markdown
       - name: Python
         description: ''
-       # percent: 100
+       # percent: 90
         icon: python
-      - name: Linux/Unix (HPC)
+      - name: Command Line (HPC)
         icon: code-bracket
       - name: SPSS
         icon: chart-bar
+      - name: Scikit-learn
+        icon: scikitlearn
+      - name: PostgreSQL
+        icon: postgresql
 
         
   - name: Hobbies
@@ -159,30 +166,40 @@ skills:
         description: ''
        # percent: 100
         icon: cat
+      - name: Learning
+        description: ''
+        icon: coursera
+      - name: Reading
+        description: ''
+        icon: pubmed
 
-languages:
+Language:
   - name: English
     percent: 95
   - name: Chinese
     percent: 100
   - name: Japanese
-    percent: 35
+    percent: 45
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Emerging Scientist Grant
+    url: https://kidsbeatingcancer.com/researchgrants/
+    date: '2025-07-21'
+    awarder: Kids Beating Cancer
   - title: CPRIT Predoctoral Training Grant
     url: https://www.bcm.edu/academic-centers/dan-l-duncan-comprehensive-cancer-center/education/cprit-training-program
     date: '2023-07-01'
     awarder: Cancer Prevention and Research Institute of Texas
     # icon: star
-  - title: Student and Postdoctoral Travel Award - 28th Summer Institute in Statistical Genetics
+  - title: Student and Postdoctoral Travel Award - Society for Birth Defects Research and Prevention 64th Annual Meeting
     url: https://birthdefectsresearch.org/
     date: '2024-06-01'
     awarder: The Society for Birth Defects & Prevention 
-  - title: Scholarship and Travel Grant
+  - title: Scholarship and Travel Grant - 28th Summer Institute in Statistical Genetics
     date: '2023-05-01'
     awarder: University of Washington
   - title: Data Science for Diversity Scholars in Down Syndrome Research (DS3) Training Program
