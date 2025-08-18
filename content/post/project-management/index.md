@@ -1,6 +1,6 @@
 ---
-title: 🧰 Quantile-Quantile Plots (QQ-plots)
-summary: GWAS Toolbox for generating a QQ-plot & Lambda
+title: Quantile, Quantile-Quantile, and GWAS
+summary: Q-Q plot
 date: 2025-04-18
 authors:
   - admin
@@ -11,12 +11,70 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
+## Quantile (分位數/切位點）
+" In statistics and probability, quantiles are cut points dividing the range of a probability distribution into continuous intervals with equal probabilities or dividing the observations in a sample in the same way." - Wikipedia
 
-📈Q-Q plot is an essential tool for detecting problems (such as unrecognized population structure, analytical approach, genotyping artifacts, etc.) in a Genome-wide association study (GWAS). 
+A quantile is the cutoff value at a certain proportion of the data. If you divide your dataset into _k_ equal groups, then you get _k_ inequalities.
+So: 
 
-## Introduction
+* 2 quantiles → Median (中位數)
+Splits the distribution into 2 halves.
 
-* A Quantile-Quantile (QQ) plot (in general) plots the observed quantiles of one distribution versus another, OR plots the observed quantiles of a distribution versus the quantiles of the ideal distribution.
+* 4 quantiles → Quartiles (四分位數)
+Splits the distribution into 4 equal parts (Q1, Q2 [= median], Q3).
+
+* 100 quantiles → Percentiles (百分位數)
+Splits the distribution into 100 equal parts.
+
+## Quantile-Quantile Plot (QQ-plot/分位數對分位數圖)
+
+### Purpose:
+* Compare the distribution of two datasets.
+* Assess whether a dataset follows a specified theoretical distribution (e.g., normal distribution).
+
+{{% callout tip %}}
+A QQ-plot provides a visual comparison of quantiles, offering a nuanced view of how a dataset deviates from a theoretical distribution. It allows one to see patterns of deviation, such as skewness or heavy tails. In contrast, a Goodness-of-Fit test is a formal statistical procedure that evaluates whether a sample comes from a specified distribution (e.g., normal, Poisson, chi-square). While it yields a clear statistical decision, it typically requires a sufficiently large sample size and does not indicate where or how the deviations occur.
+{{% /callout %}}
+
+
+### How it works:
+* When comparing the distribution of two datasets.
+
+1. We sort our data based on order statistics (順序統計量)
+
+$$
+\begin{align}
+X1,X2,X3......Xn -> X(1)​≤X(2)​≤X(3)​≤⋯≤X(n)​
+\end{align}
+$$
+
+$$
+\begin{align}
+Y1,Y2,Y3......Yn -> Y(1)​≤Y(2)​≤Y(3)​≤⋯≤Y(n)​
+\end{align}
+$$
+
+3. To compare empirical data with a theoretical distribution (e.g., in a QQ-plot), you map each order statistic 𝑋(𝑖) to a quantile probability.
+
+$$
+\begin{align}
+p_i &= \frac{i}{n+1} \\
+Y_{(i)} &= F^{-1}(p_i)
+\end{align}
+$$
+
+$X_{(i)}$ → the $i^{\text{th}}$ ordered sample value.  
+
+$p_i$ → its plotting position (approximate quantile level).  
+
+
+* Plots the quantiles of one dataset against the quantiles of another (or against a theoretical distribution).
+
+
+Q-Q plot is an essential tool for detecting problems (such as unrecognized population structure, analytical approach, genotyping artifacts, etc.) in a Genome-wide association study (GWAS). 
+
+## Q-Q plot and GWAS
+* Q-Q plots the observed quantiles of one distribution versus another, OR plots the observed quantiles of a distribution versus the quantiles of the ideal distribution.
 
 * In GWAS, we use a QQ plot to plot our the quantile distribution of observed p-values (on the y-axis) versus the quantile distribution of expected p-values. In an ideal situation, where there ARE NO causal polymorphisms, the QQ-plot will be a line. 
 
