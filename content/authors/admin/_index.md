@@ -174,7 +174,7 @@ skills:
 
 languages:
   - name: English
-    percent: 99
+    percent: 95
   - name: Chinese
     percent: 100
   - name: Japanese
