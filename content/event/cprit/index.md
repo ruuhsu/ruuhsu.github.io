@@ -1,19 +1,19 @@
 ---
-title: Cancer Prevention Research 
+title: Cancer Prevention and Research Institute of Texas (CPRIT) Annual Mini-Symposium
 
-event: Society for Birth Defects Research and Prevention
-event_url: https://www.birthdefectsresearch.org/meetings/2024/
+event: CPRIT Program at Baylor College of Medicine
+event_url: https://bcmfamily.bcm.edu/2024/07/09/baylor-fuels-next-generation-of-cancer-researchers-through-cprit/
 
-location: Pittsburgh, PA
+location: Houston, TX
 address:
-  street: Wyndham Grand Pittsburgh Downtown
+  street: One Baylor Plaza
   country: United States
 
-summary: Relationship between Co-occurring Structural Birth Defects and Leukemia Risk in Children with Down Syndrome
+summary: I had the opportunity to present my PhD thesis work at the CPRIT Annual Mini-Symposium. I am truly grateful to CPRIT for supporting my research over the past two years of graduate school and making this work possible.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-01T13:00:00Z'
+date: '2024-07-09T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -29,8 +29,8 @@ tags: []
 featured: true
 
 image:
-  caption: '2024 BDRP Annual Meeting'
-  focal_point: Right
+  caption: '2024 CPRIT Symposium'
+  focal_point: Center
 
 #links:
 #  - icon: twitter
@@ -54,6 +54,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - Children with trisomy 21 (Down syndrome, DS) face a markedly increased risk of developing leukemia, particularly acute lymphoblastic leukemia (ALL) and acute megakaryoblastic leukemia (AMKL). This elevated risk does not occur in isolation—many children with DS also have a higher burden of congenital birth defects, and emerging evidence suggests these phenomena are interconnected.
+# projects:
+
 ---
