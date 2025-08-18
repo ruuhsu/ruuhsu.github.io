@@ -13,7 +13,7 @@ summary: Relationship between Co-occurring Structural Birth Defects and Leukemia
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-022T13:00:00Z'
+date: '2024-06-22T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -26,7 +26,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: '2024 BDRP Annual Meeting'
