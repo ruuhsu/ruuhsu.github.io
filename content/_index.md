@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Posts
+      title: Notes
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
