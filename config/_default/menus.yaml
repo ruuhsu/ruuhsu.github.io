@@ -10,9 +10,9 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: News
-    url: /#talks
-    weight: 8
+#  - name: News
+#    url: /#talks
+#    weight: 8
   - name: Posts
     url: /#news
     weight: 13
