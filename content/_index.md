@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Notes
+      title: 小品
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
