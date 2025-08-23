@@ -73,17 +73,17 @@ sections:
     # design:
     #  view: article-grid
     #  columns: 1
-  - block: collection
-    id: news
-    content:
-      title: 小品
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
+  #- block: collection
+  #  id: news
+  #  content:
+  #    title: 小品
+  #    subtitle: ''
+  #    text: ''
+  #    # Page type to display. E.g. post, talk, publication...
+  #    page_type: post
+  #    # Choose how many pages you would like to display (0 = all pages)
+  #    count: 5
+  #    # Filter on criteria
       filters:
         author: ""
         category: ""
