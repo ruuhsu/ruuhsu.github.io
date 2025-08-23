@@ -94,10 +94,10 @@ work:
     date_end: 2025-12-01
     summary: |
       Responsibilities include:
-      - Analyzed whole-genome sequencing data from children with Down syndrome (DS) who developed acute lymphoblastic leukemia (ALL) and compared them with DS controls to assess the impact of single-nucleotide variants (SNVs) and structural variants (SVs) on ALL susceptibility and subtypes.
-      - Conducted outcome analysis for DS-ALL, evaluating treatment response, infectious toxicity, and survival based on demographic, clinical, and genomic factors.
-      - Applied Mendelian randomization to assess birth characteristics' influence (e.g., birth weight) on ALL risk in DS children.
-      - Utilize machine learning to predict leukemia risk among children born with congenital anomalies.
+      - Studied genetic factors contributing to leukemia in children with Down syndrome.
+      - Assessed clinical outcomes and survival in DS-ALL.
+      - Examined early-life characteristics and their impact on leukemia risk.
+      - Used machine learning to predict leukemia risk in children with birth defects.
   - position: Director of Agency
     company_name: Consulting Club at Texas Medical Center (CCTMC)
     company_url: https://www.medcenterconsulting.com/
