@@ -43,30 +43,23 @@ A QQ-plot provides a visual comparison of quantiles, offering a nuanced view of 
 1. We sort our data based on order statistics (順序統計量)
 
 $$
-\begin{align}
-X1,X2,X3......Xn -> X(1)​≤X(2)​≤X(3)​≤⋯≤X(n)​
-\end{align}
-$$
-
-$$
-\begin{align}
-Y1,Y2,Y3......Yn -> Y(1)​≤Y(2)​≤Y(3)​≤⋯≤Y(n)​
-\end{align}
+\begin{aligned}
+X_1, X_2, \ldots, X_n &\;\longrightarrow\; X_{(1)} \le X_{(2)} \le \cdots \le X_{(n)} \\
+Y_1, Y_2, \ldots, Y_n &\;\longrightarrow\; Y_{(1)} \le Y_{(2)} \le \cdots \le Y_{(n)}
+\end{aligned}
 $$
 
 3. To compare empirical data with a theoretical distribution (e.g., in a QQ-plot), you map each order statistic 𝑋(𝑖) to a quantile probability.
 
 $$
-\begin{align}
-p_i &= \frac{i}{n+1} \\
+\begin{aligned}
+p_i &= \frac{i}{\,n + 1\,} \\
 Y_{(i)} &= F^{-1}(p_i)
-\end{align}
+\end{aligned}
 $$
 
-$X_{(i)}$ → the $i^{\text{th}}$ ordered sample value.  
-
-$p_i$ → its plotting position (approximate quantile level).  
-
+\(X_{(i)}\) → the \(i^{\text{th}}\) ordered sample value  
+\(p_i\) → the plotting position (approximate quantile level)
 
 * Plots the quantiles of one dataset against the quantiles of another (or against a theoretical distribution).
 
